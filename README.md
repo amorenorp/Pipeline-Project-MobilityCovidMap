@@ -1,5 +1,9 @@
 # Pipeline-Project-MobilityCovidMap
 
+![MobilityCovidMap](https://github.com/yamadajc/Pipeline-Project-MobilityCovidMap/blob/main/images/applecovid.jpg).
+
+
+
 ## Introducion:
 El 13 de enero del 2020 Apple empezo a proporcionar de manera gratuita los datos referidos a las tendencias de movilidad de los usuarios de sus dsispositivos. 
 
