@@ -1,4 +1,4 @@
-## *Mobility Covid Map*
+# *Mobility Covid Map*
 
 ![MobilityCovidMap](https://github.com/yamadajc/Pipeline-Project-MobilityCovidMap/blob/main/images/applecovid.jpg).
 
